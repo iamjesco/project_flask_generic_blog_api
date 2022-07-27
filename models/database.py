@@ -24,3 +24,6 @@ class Post(db.Model):
         self.status = status
         self.featured = featured
 
+
+
+

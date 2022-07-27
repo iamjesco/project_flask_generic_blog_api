@@ -25,5 +25,5 @@ class Post(db.Model):
         self.featured = featured
 
 
-
+db.create_all()
 
